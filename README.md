@@ -30,3 +30,4 @@ dist/assets/index-DJlyPodN.js                       976.53 kB │ gzip: 271.67 k
 - Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
 ✓ built in 10.03s
 ```
+https://qanswer.space/questions/issue-mainhead-failed-during-site-building-stage-build-script-ended-with-non-zero-exit-code-2
